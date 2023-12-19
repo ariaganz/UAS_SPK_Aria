@@ -1,3 +1,4 @@
-![Screenshot (1008)](https://github.com/ariaganz/UAS_SPK_Aria/assets/133513250/ed075314-d3e1-436a-8492-3e0fbe1f02af)
-![Screenshot (1010)](https://github.com/ariaganz/UAS_SPK_Aria/assets/133513250/f8958e27-e705-46aa-bed8-02c3eb6a1861)
-![Screenshot (1011)](https://github.com/ariaganz/UAS_SPK_Aria/assets/133513250/383e0187-19e2-43cb-a985-0803ca67c514)
+![Screenshot (1013)](https://github.com/ariaganz/UAS_SPK_Aria/assets/133513250/b9fda841-c669-4535-9607-4a763b56a895)
+![Screenshot (1014)](https://github.com/ariaganz/UAS_SPK_Aria/assets/133513250/17857832-2586-41d8-a29a-14c114651daa)
+![Screenshot (1015)](https://github.com/ariaganz/UAS_SPK_Aria/assets/133513250/db1a701f-ec7e-4a04-881e-a600a4d2e226)
+
